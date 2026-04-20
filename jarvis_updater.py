@@ -35,7 +35,7 @@ JARVIS_RAW_URL = "https://raw.githubusercontent.com/caschrgr090298-ui/jarvisx/re
 
 # Raw URL to a version.txt file on GitHub (just contains a number like "3.1")
 # Example: "https://raw.githubusercontent.com/YourUsername/jarvis/main/version.txt"
-VERSION_URL    = "YOUR_VERSION_TXT_URL_HERE"
+VERSION_URL    = "https://raw.githubusercontent.com/caschrgr090298-ui/jarvisx/refs/heads/main/version.txt"
 
 # ══════════════════════════════════════════════════════════════════════════════
 
